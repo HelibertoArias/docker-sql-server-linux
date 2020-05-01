@@ -80,5 +80,5 @@ Para detener el contenedor utilice
 `docker stop sql-server-container`.
 
 # Más información
-Consulta el siguiente [post](http://helibertoarias.com/es/docker/docker-sql-server-linux-windows/) para mayor información.
+Consulta el siguiente [post](https://helibertoarias.com/es/blog/docker/docker-sql-server-linux-windows/) para mayor información.
 
